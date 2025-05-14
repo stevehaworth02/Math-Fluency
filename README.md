@@ -1,6 +1,6 @@
 # 🧠 Math‑Fluency Bootcamp 2025
 
-Welcome to my personal **Math‑Fluency** repo—home base for sharpening the core skills a data‑science / quant mind needs.  
+Welcome to my ( Mr. Steven ) personal **Math‑Fluency** repo—home base for sharpening the core skills a data‑science / quant mind needs.  
 *Version 0.9 (last updated: 2025‑05‑14)*
 
 ---
